@@ -1,6 +1,6 @@
 # 联系方式
 
-- Email：[hanxi.info@gmail.com](hanxi.info@gmail.com]
+- Email：[hanxi.info@gmail.com](hanxi.info@gmail.com)
 - QQ/微信号：785446153
 
 
