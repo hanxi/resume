@@ -18,9 +18,11 @@
 ## 广州擎天柱网络科技有限公司 （ 2017年7月 ~ 至今 ）
 
 ### Q6项目
+《Q6》是一款3D回合制MMORPG游戏，上线测试过几次，能搜到的新闻： [http://news.4399.com/qliu/](http://news.4399.com/qliu/)
 
 ## 三七互娱 （2015年8月 ~ 2017年6月）
 ### 星河纷争项目
+星河纷争是面向海外的全球同服SLG星际题材手游。上线收费测试了，这里有个玩家录制的视频： [https://www.youtube.com/watch?v=uyc8Asi8EnE](https://www.youtube.com/watch?v=uyc8Asi8EnE)
 
 ## 易娱网络（2012年10月 ~ 2015年7月）
 
