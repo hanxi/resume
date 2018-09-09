@@ -1,6 +1,6 @@
 # 联系方式
 
-- Email：hanxi.info@gmail.com
+- Email：[hanxi.info@gmail.com](hanxi.info@gmail.com]
 - QQ/微信号：785446153
 
 
@@ -8,8 +8,8 @@
 
  - 黄良明/男/1991
  - 本科/江西理工大学-信息与计算科学
- - 技术博客：[http://www.hanxi.info](http://www.hanxi.info)
- - Github：[http://github.com/hanxi](http://github.com/hanxi)
+ - 技术博客：[https://www.hanxi.info](https://www.hanxi.info)
+ - Github：[https://github.com/hanxi](https://github.com/hanxi)
 
 
 # 工作经历
@@ -44,8 +44,8 @@
 
 ## 演讲和讲义
 
-  - 公司内部分享：[跳跃表的实现和应用](www.hanxi.info)
-  - 公司内部分享：[对比Skynet和Q6引擎](www.hanxi.info)
+  - 公司内部分享：[跳跃表的实现和应用](https://www.hanxi.info)
+  - 公司内部分享：[对比Skynet和Q6引擎](https://www.hanxi.info)
 
 # 技能清单
 
