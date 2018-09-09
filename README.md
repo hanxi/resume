@@ -8,8 +8,8 @@
 
  - 黄良明/男/1991
  - 本科/江西理工大学-信息与计算科学
- - 技术博客：<http://www.hanxi.info>
- - Github：<http://github.com/hanxi>
+ - 技术博客：[http://www.hanxi.info](http://www.hanxi.info)
+ - Github：[http://github.com/hanxi](http://github.com/hanxi)
 
 
 # 工作经历
