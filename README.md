@@ -14,8 +14,13 @@
 
 # 工作经历
 
+## 广州高图 ( 2019 年 2月 ~ 现在)
 
-## 广州擎天柱网络科技有限公司 （ 2017年7月 ~ 至今 ）
+### WST 项目
+
+模拟经营游戏，已上线测试，游戏地址 https://play.google.com/store/apps/details?id=com.goat.wstgl
+
+## 广州擎天柱网络科技有限公司 （ 2017年7月 ~ 2019年2月 ）
 
 ### Q6项目
 Q6 是一款3D回合制MMORPG游戏，上线测试过几次，能搜到的新闻： [http://news.4399.com/qliu/](http://news.4399.com/qliu/)
