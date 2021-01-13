@@ -51,6 +51,7 @@ Q6 是一款3D回合制MMORPG游戏，上线测试过几次，能搜到的新闻
 
 ## 演讲和讲义
 
+  - [Skynet 游戏服务器开发实战](https://www.lanqiao.cn/courses/2770)  优惠邀请码: `2CZ2UA5u`
   - 公司内部分享：[跳跃表的实现和应用](https://www.hanxi.info)
   - 公司内部分享：[对比Skynet和Q6引擎](https://www.hanxi.info)
 
