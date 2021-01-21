@@ -12,8 +12,8 @@
 ## 个人信息
 
 - **C/Lua 游戏服务端开发工程师**
-- 涵曦/男/1991
-- 本科/江西理工大学-信息与计算科学
+- 涵曦 , 男 , 1991
+- 本科 , 江西理工大学-信息与计算科学
 - 技术博客：[https://blog.hanxi.info](https://blog.hanxi.info)
 - Github：[https://github.com/hanxi](https://github.com/hanxi)
 
