@@ -14,7 +14,7 @@
 - **C/Lua 游戏服务端开发工程师**
 - 涵曦 , 男 , 1991
 - 本科 , 江西理工大学-信息与计算科学
-- 技术博客：[https://blog.hanxi.info](https://blog.hanxi.info)
+- 技术博客：[https://blog.hanxi.cc](https://blog.hanxi.cc)
 - Github：[https://github.com/hanxi](https://github.com/hanxi)
 
 
@@ -69,8 +69,8 @@
 
 ### 技术文章
 
-- [分布式唯一ID生成算法实现](https://blog.hanxi.info/?p=48)
-- [lua动态链接库（luaopen_*函数的使用）](https://oldblog.hanxi.info/2014/01/07/original-lua_dynamic_lib/)
+- [分布式唯一ID生成算法实现](https://blog.hanxi.cc/?p=48)
+- [lua动态链接库（luaopen_*函数的使用）](https://oldblog.hanxi.cc/2014/01/07/original-lua_dynamic_lib/)
 - [使用 nmake 编译 Lua 及扩展库](https://github.com/hanxi/blog/issues/9)
 
 ### 演讲和讲义
